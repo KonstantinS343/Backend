@@ -4,7 +4,7 @@
 #   'r': '•—•', 's': '•••', 't': '—', 'u': '••—', 'v': '•••—', 'w': '•——', 
 #   'x': '—••—', 'y': '—•——', 'z': '——••'}
 # morze_version= []
-# letter_version = input("Input the world:")
+# letter_version = input("Input the word:")
 # letter_version = letter_version.lower()
 # for i in letter_version:
 #     key = morze.get(i)
